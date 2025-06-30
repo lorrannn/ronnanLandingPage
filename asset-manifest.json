@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ronnanLandingPage/static/css/main.a3c7c16d.css",
+    "main.js": "/ronnanLandingPage/static/js/main.6286a942.js",
+    "static/js/453.96453769.chunk.js": "/ronnanLandingPage/static/js/453.96453769.chunk.js",
+    "static/media/cristoRedentorEscura.png": "/ronnanLandingPage/static/media/cristoRedentorEscura.17e4adc0a90a032ebe1a.png",
+    "static/media/chile2.jpg": "/ronnanLandingPage/static/media/chile2.79273f8629dbe3487c59.jpg",
+    "static/media/background-4032775_1280.png": "/ronnanLandingPage/static/media/background-4032775_1280.1cb77a8be26862b7caf3.png",
+    "static/media/chile.jpg": "/ronnanLandingPage/static/media/chile.b3423154a9daaca1c254.jpg",
+    "static/media/chile3.jpg": "/ronnanLandingPage/static/media/chile3.2a74d48f3343d41d5980.jpg",
+    "static/media/ronnan3.jpg": "/ronnanLandingPage/static/media/ronnan3.aaca59edfcc7d8d4b701.jpg",
+    "index.html": "/ronnanLandingPage/index.html",
+    "main.a3c7c16d.css.map": "/ronnanLandingPage/static/css/main.a3c7c16d.css.map",
+    "main.6286a942.js.map": "/ronnanLandingPage/static/js/main.6286a942.js.map",
+    "453.96453769.chunk.js.map": "/ronnanLandingPage/static/js/453.96453769.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3c7c16d.css",
+    "static/js/main.6286a942.js"
+  ]
+}
