@@ -14,41 +14,9 @@
     margin-bottom: 1rem;
 }
 
-#photoCarousel {
-    width: 350px;
-    overflow-x: scroll;
-    display: flex;
-    gap: 1rem;
-    scroll-behavior: smooth;
-}
-
-#photoCarousel::-webkit-scrollbar {
-    display: none;
-}
-
-#photoCarousel>* {
-    flex: 0 0 100%;
-}
-
-@media (min-width:768px){
-    #photoCarousel{
-        width: 500px;
-    }
-}
-
 @media (min-width: 1024px) {
 
     #thirdSlideContainer{
         height: 700px;
-    }
-
-    #photoCarousel {
-        width: 100%;
-        overflow-x: hidden;
-        justify-content: center;
-    }
-
-    #photoCarousel>* {
-        flex: 0 0 30%;
     }
 }

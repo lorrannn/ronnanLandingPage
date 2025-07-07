@@ -5,7 +5,7 @@ export const PhotoComponent = (props) => {
         <>
             <div id="photoComponentContainer">
                 <img id="photo" src={props.image}></img>
-                <h5>{props.title}</h5>
+                <h4>{props.title}</h4>
                 <p>{props.description}</p>
             </div>
         </>
