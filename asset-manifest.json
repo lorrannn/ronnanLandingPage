@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/ronnanLandingPage/static/css/main.49915d77.css",
-    "main.js": "/ronnanLandingPage/static/js/main.9efe0f14.js",
+    "main.css": "/ronnanLandingPage/static/css/main.899b4c3c.css",
+    "main.js": "/ronnanLandingPage/static/js/main.3889c428.js",
     "static/js/453.96453769.chunk.js": "/ronnanLandingPage/static/js/453.96453769.chunk.js",
+    "static/media/contactPhoto.jpg": "/ronnanLandingPage/static/media/contactPhoto.2ad49886a3bfc7d71190.jpg",
     "static/media/cristoRedentorEscura.png": "/ronnanLandingPage/static/media/cristoRedentorEscura.17e4adc0a90a032ebe1a.png",
     "static/media/veraoRetrato2.jpg": "/ronnanLandingPage/static/media/veraoRetrato2.3e7f54cd267e5a497fa9.jpg",
     "static/media/veraoRetrato3.jpg": "/ronnanLandingPage/static/media/veraoRetrato3.d3346c4ce81a6032c789.jpg",
@@ -14,12 +15,12 @@
     "static/media/chile3.jpg": "/ronnanLandingPage/static/media/chile3.2a74d48f3343d41d5980.jpg",
     "static/media/ronnan3.jpg": "/ronnanLandingPage/static/media/ronnan3.29a9b555cdaede09f341.jpg",
     "index.html": "/ronnanLandingPage/index.html",
-    "main.49915d77.css.map": "/ronnanLandingPage/static/css/main.49915d77.css.map",
-    "main.9efe0f14.js.map": "/ronnanLandingPage/static/js/main.9efe0f14.js.map",
+    "main.899b4c3c.css.map": "/ronnanLandingPage/static/css/main.899b4c3c.css.map",
+    "main.3889c428.js.map": "/ronnanLandingPage/static/js/main.3889c428.js.map",
     "453.96453769.chunk.js.map": "/ronnanLandingPage/static/js/453.96453769.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.49915d77.css",
-    "static/js/main.9efe0f14.js"
+    "static/css/main.899b4c3c.css",
+    "static/js/main.3889c428.js"
   ]
 }
