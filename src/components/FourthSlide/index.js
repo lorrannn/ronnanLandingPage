@@ -33,7 +33,6 @@ export const FourthSlide = () => {
                 <CarouselComponent images={images}/>
                 <div id='paisagemContainer'>
                     <img width="100%" src={verao04}></img>
-                    
                     <h4>Cenas de Verão</h4>
                     <p>Vastas terras verdes vazias</p>
                 </div>

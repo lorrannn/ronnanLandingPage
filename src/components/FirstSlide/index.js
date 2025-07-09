@@ -1,3 +1,4 @@
+import { ContactButton } from "../ContactButton"
 import "./styles.css"
 
 export const FirstSlide = () => {
@@ -18,12 +19,10 @@ export const FirstSlide = () => {
                     <div>
                         <p>Turismólogo</p>
                         <p>e Apaixonado por Viver</p>
-                        <button id="contactButton">Entre em Contato</button>
+                        <ContactButton/>
                     </div>
-
                 </div>
             </div>
-
         </div>
     )
 }

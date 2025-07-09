@@ -1,4 +1,5 @@
 import './App.css';
+import { ContactComponent } from './components/ContactComponent';
 import { FirstSlide } from './components/FirstSlide';
 import { FourthSlide } from './components/FourthSlide';
 import { SecondSlide } from './components/SecondSlide';
@@ -12,6 +13,7 @@ function App() {
       <SecondSlide />
       <ThirdSlide />
       <FourthSlide />
+      <ContactComponent/>
     </div>
   );
 }

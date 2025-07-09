@@ -1,0 +1,44 @@
+#contactComponentContainer{
+    
+    width: 100%;
+    color:white;
+    height: 450px;
+    background-image: url("../../assets/img/contactPhoto.jpg");
+    background-size:cover;
+    background-position: center;
+}
+
+#contactContentContainer{
+    box-sizing: border-box;
+    padding: 0 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    background-color: #231f20;
+    height: 100%;
+    width: 50%;
+}
+
+
+
+#socialsContainer{
+    font-size: 1.8rem;   
+}
+
+#socialsContainer p{
+     font-size: 0.9rem;  
+}
+
+@media(min-width:768px){
+    
+    #contactComponentContainer{
+        height: 650px;
+    }
+}
+
+@media(min-width:1024px){
+    
+    #contactComponentContainer{
+        height: 700px;
+    }
+}
